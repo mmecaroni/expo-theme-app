@@ -1,7 +1,8 @@
+{
+  /**** Original File ****/
+}
 import { StyleSheet } from "react-native";
-
-import EditScreenInfo from "../../components/EditScreenInfo";
-import { Text, View } from "../../components/Themed";
+import { Text, View } from "../../Themed";
 
 export default function TabOneScreen() {
   return (
@@ -12,7 +13,7 @@ export default function TabOneScreen() {
         lightColor="#eee"
         darkColor="rgba(255,255,255,0.1)"
       />
-      <EditScreenInfo path="app/(tabs)/index.tsx" />
+      <Text>/(tabs)index.jsx</Text>
     </View>
   );
 }

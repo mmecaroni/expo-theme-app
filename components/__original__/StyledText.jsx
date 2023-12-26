@@ -1,3 +1,6 @@
+{
+  /**** Original File ****/
+}
 import { Text } from "./Themed";
 
 export function MonoText(props) {
