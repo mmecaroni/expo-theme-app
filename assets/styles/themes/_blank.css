@@ -1,0 +1,10 @@
+/** Shadcn Variables */
+@layer base {
+  :root {
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+    }
+  }
+}
