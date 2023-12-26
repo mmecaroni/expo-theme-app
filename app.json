@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-fitness-app",
-    "slug": "expo-fitness-app",
+    "name": "expo-theme-app",
+    "slug": "expo-theme-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
